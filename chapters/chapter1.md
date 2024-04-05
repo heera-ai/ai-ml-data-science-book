@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chapter 1 - AI Fundamentals
+author: Heera
 ---
 
 # Chapter 1: AI Fundamentals

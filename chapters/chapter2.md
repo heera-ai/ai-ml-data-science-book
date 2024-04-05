@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chapter 2 - Machine Learning Basics
+author: Heera
 ---
 
 # Chapter 2: Machine Learning Basics
